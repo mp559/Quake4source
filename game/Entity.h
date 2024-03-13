@@ -675,6 +675,7 @@ protected:
 // mekberg: added
 	void					Event_SetHealth					( float newHealth );
 // RAVEN END
+	//here is the safest place to add new data
 };
 
 // RAVEN BEGIN
